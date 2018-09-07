@@ -53,5 +53,6 @@
     * [二网](common_concept/logic/secondary_network.md)
     * [批售](common_concept/logic/wholesales.md)
     * [OTD](common_concept/logic/otd.md)
+  * [常见组织架构](common_concept/organization/README.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)

@@ -6,7 +6,7 @@
   "gitbook": "3.2.3",
   "links": {
     "sidebar": {
-      "主页": "http://www.fanqiedashu.com"
+      "主页": "https://www.fanqiedashu.com"
     }
   },
   "plugins": [
@@ -114,7 +114,7 @@
       "wechatText": ""
     },
     "sitemap-general": {
-      "prefix": ""
+      "prefix": "https://book-automobile.fanqiedashu.com/"
     },
     "toolbar-button": {
       "icon": "fa-file-pdf-o",
