@@ -13,7 +13,7 @@
     "-theme-comscore",
     "-lunr",
     "-search",
-    "-search-plus",
+    "search-plus",
     "-disqus",
     "-highlight",
     "-prism",
@@ -26,7 +26,7 @@
     "-expandable-chapters-small",
     "ga",
     "donate",
-    "-sitemap-general",
+    "sitemap-general",
     "-copy-code-button",
     "-alerts",
     "-toolbar-button"
@@ -114,7 +114,7 @@
       "wechatText": ""
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/automobile_sales_summary/website/"
+      "prefix": ""
     },
     "toolbar-button": {
       "icon": "fa-file-pdf-o",
