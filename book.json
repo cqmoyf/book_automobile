@@ -1,0 +1,125 @@
+{
+  "title": "汽车销售领域知识总结",
+  "description": "总结汽车销售领域内的相关知识",
+  "author": "番茄大叔 cqmoyf#hotmail.com",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "links": {
+    "sidebar": {
+      "主页": "http://www.fanqiedashu.com"
+    }
+  },
+  "plugins": [
+    "-theme-comscore",
+    "-lunr",
+    "-search",
+    "-search-plus",
+    "-disqus",
+    "-highlight",
+    "-prism",
+    "-prism-themes",
+    "-github-buttons",
+    "-splitter",
+    "-sharing",
+    "-sharing-plus",
+    "tbfed-pagefooter",
+    "-expandable-chapters-small",
+    "ga",
+    "donate",
+    "-sitemap-general",
+    "-copy-code-button",
+    "-alerts",
+    "-toolbar-button"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+        "showLevel": true
+    },
+    "disqus": {
+      "shortName": "crifan"
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "crifan",
+          "repo": "automobile_sales_summary",
+          "type": "star",
+          "count": true,
+          "size": "small"
+        }, {
+          "user": "crifan",
+          "type": "follow",
+          "width": "120",
+          "count": false,
+          "size": "small"
+        }
+      ]
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": true,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": true,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "instapaper",
+        "line",
+        "linkedin",
+        "messenger",
+        "pocket",
+        "qq",
+        "qzone",
+        "stumbleupon",
+        "twitter",
+        "viber",
+        "vk",
+        "weibo",
+        "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "fanqiedashu.com，|<span><a href='http://www.miitbeian.gov.cn/' rel='external nofollow' target='_blank'>渝ICP备18011952号-1</a></span><a target='_blank' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010302002166' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/gaba.png' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;'>渝公网安备 50010302002166号</p></a>",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "ga": {
+      "token": "UA-238908-13"
+    },
+    "donate": {
+      "wechat": "http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/wechat.jpg",
+      "alipay": "http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/alipay.jpg",
+      "title": "如果你觉得本文对你有帮助，请随意打赏",
+      "button": "打赏",
+      "alipayText": "支付宝打赏给大叔",
+      "wechatText": "微信打赏给大叔"
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/automobile_sales_summary/website/"
+    },
+    "toolbar-button": {
+      "icon": "fa-file-pdf-o",
+      "label": "下载PDF",
+      "url": "http://book.crifan.com/books/automobile_sales_summary/pdf/automobile_sales_summary.pdf"
+    }
+  }
+}
