@@ -29,7 +29,8 @@
     "sitemap-general",
     "-copy-code-button",
     "-alerts",
-    "-toolbar-button"
+    "-toolbar-button",
+    "toggle-chapters"
   ],
   "pluginsConfig": {
     "theme-default": {
