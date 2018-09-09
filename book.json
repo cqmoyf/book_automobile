@@ -10,7 +10,7 @@
     }
   },
   "plugins": [
-    "-theme-comscore",
+    "theme-comscore",
     "-lunr",
     "-search",
     "search-plus",
@@ -30,7 +30,7 @@
     "-copy-code-button",
     "-alerts",
     "-toolbar-button",
-    "toggle-chapters"
+    "-toggle-chapters"
   ],
   "pluginsConfig": {
     "theme-default": {
