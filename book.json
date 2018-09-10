@@ -99,7 +99,7 @@
       ]
     },
     "tbfed-pagefooter": {
-      "copyright": "<span><a href='http://www.miitbeian.gov.cn/' rel='external nofollow' target='_blank'>渝ICP备18011952号-1</a></span><a target='_blank' href='http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010302002166' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/gaba.png' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;'>渝公网安备 50010302002166号</p></a><br>fanqiedashu.com",
+      "copyright": "<span><a href='http://www.miitbeian.gov.cn/' rel='external nofollow' target='_blank'>渝ICP备18011952号-1</a></span><a target='_blank' href='https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010302002166' style='display:inline-block;text-decoration:none;height:20px;line-height:20px;'><img src='http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/gaba.png' style='float:left;'/><p style='float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;'>渝公网安备 50010302002166号</p></a><br>fanqiedashu.com",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
@@ -107,8 +107,8 @@
       "token": "UA-238908-13"
     },
     "donate": {
-      "wechat": "http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/wechat.jpg",
-      "alipay": "http://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/alipay.jpg",
+      "wechat": "https://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/wechat.jpg",
+      "alipay": "https://qiniu.fanqiedashu.com/wp-content/themes/twentyseventeen/img/alipay.jpg",
       "title": "如果你觉得本文对您有帮助，请随意打赏",
       "button": "打赏",
       "alipayText": "",
