@@ -30,7 +30,8 @@
     "-copy-code-button",
     "-alerts",
     "-toolbar-button",
-    "-toggle-chapters"
+    "-toggle-chapters",
+    "baidu-tongji"
   ],
   "pluginsConfig": {
     "theme-default": {
@@ -117,6 +118,9 @@
     "sitemap-general": {
       "prefix": "https://book-automobile.fanqiedashu.com/"
     },
+     "baidu-tongji": {
+            "token": "2fa0cb717140472ee72b9f8254a9754c"
+        },
     "toolbar-button": {
       "icon": "fa-file-pdf-o",
       "label": "下载PDF",
