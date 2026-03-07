@@ -26,20 +26,20 @@
 
 典型场景中，先要去收集客户，此时就要去进行一些外部拓展点活动去收集潜在购车意向的客户，对应流程是：
 
-![集客类市场活动的流程](../../assets/img/collection_leads_activity_process.jpg)
+![集客类市场活动的流程](../../.gitbook/assets/collection_leads_activity_process.jpg)
 
 然后客户进店，前台的接待客户的流程是：
 
-![售前的前台接待流程图](../../assets/img/frontdesk_reception_process.jpg)
+![售前的前台接待流程图](../../.gitbook/assets/frontdesk_reception_process.jpg)
 
 在此期间，销售顾问和销售经理需要关心的事情有哪些：
 
-![集客时重点关注表](../../assets/img/collection_leads_focus_point.jpg)
+![集客时重点关注表](../../.gitbook/assets/collection_leads_focus_point.jpg)
 
 接着再说，在客户进店后的接待流程是：
 
-![进店时流程图](../../assets/img/into_4s_shop_process.jpg)
+![进店时流程图](../../.gitbook/assets/into_4s_shop_process.jpg)
 
 对应的需要关注的点：
 
-![进店接待时重点关注表](../../assets/img/into_4s_shop_focus_point.jpg)
+![进店接待时重点关注表](../../.gitbook/assets/into_4s_shop_focus_point.jpg)

@@ -31,7 +31,7 @@
 
 大众的LOGO是：
 
-![vw的logo](../../../assets/img/vw_logo.png)
+![vw的logo](../../../.gitbook/assets/vw_logo.png)
 
 -> `大众集团`=`Volkswagen Group`，主要包括子品牌：
 
@@ -49,11 +49,11 @@
 
 对应主页：[上海汽车集团股份有限公司](http://www.saicmotor.com/chinese/index.shtml)
 
-http://www.saicmotor.com/chinese/index.shtml
+[http://www.saicmotor.com/chinese/index.shtml](http://www.saicmotor.com/chinese/index.shtml)
 
 上汽集团的LOGO：
 
-![SAIC的logo](../../../assets/img/saic_motor_logo.png)
+![SAIC的logo](../../../.gitbook/assets/saic_motor_logo.png)
 
 `上汽集团`下属的子品牌，主要是一些整车企业：
 
@@ -75,33 +75,33 @@ http://www.saicmotor.com/chinese/index.shtml
 * 之前叫：`上海大众`=`csvw`=`Shanghai Volkswagen`=`China SAIC VOLKSWAGEN`=全称是`Shanghai Volkswagen Automotive Co., Ltd`
 * 后改名：`上汽大众`=`svw`=`SAIC VOLKSWAGEN`=全称是`SAIC Volkswagen Automotive Co., Ltd.`=`上汽集团`和`大众集团`的合资公司
 
-##### csvw 上海大众
+**csvw 上海大众**
 
 上海大众的官网： [上汽大众汽车有限公司](http://www.csvw.com)
 
-http://www.csvw.com
+[http://www.csvw.com](http://www.csvw.com)
 
 上海大众的LOGO：
 
-![csvw的logo](../../../assets/img/csvw_logo.png)
+![csvw的logo](../../../.gitbook/assets/csvw_logo.png)
 
-##### svw 上汽大众
+**svw 上汽大众**
 
 上汽大众的官网：[上汽大众品牌官网 SAIC VOLKSWAGEN](http://www.svw-volkswagen.com/zh.html)
 
-http://www.svw-volkswagen.com/zh.html
+[http://www.svw-volkswagen.com/zh.html](http://www.svw-volkswagen.com/zh.html)
 
 对应上汽大众的LOGO：
 
-![saic vw的logo - 简单](../../../assets/img/saic_vw_logo_simple.png)
+![saic vw的logo - 简单](../../../.gitbook/assets/saic_vw_logo_simple.png)
 
 或：
 
-![saic vw的logo - 完整](../../../assets/img/saic_vw_logo_full.png)
+![saic vw的logo - 完整](../../../.gitbook/assets/saic_vw_logo_full.png)
 
 ## 上汽大众简介
 
-![上汽大众集团新总部 综合管理大楼](../../../assets/img/saic_vw_new_hq.jpg)
+![上汽大众集团新总部 综合管理大楼](../../../.gitbook/assets/saic_vw_new_hq.jpg)
 
 > 上汽大众汽车有限公司是一家中德合资企业，由上汽集团和大众汽车集团合资经营。
 >
@@ -109,10 +109,9 @@ http://www.svw-volkswagen.com/zh.html
 >
 > 公司总部位于上海安亭，并先后在南京、仪征、乌鲁木齐、宁波、长沙等地建立了生产基地。
 >
->
 > 上汽大众汽车有限公司由上汽集团和大众汽车集团合资经营，公司总部位于上海安亭，并先后在南京、仪征、乌鲁木齐、宁波、长沙等地建立了生产基地。
 >
->作为国内历史最悠久的汽车合资企业之一，上汽大众率先在自主研发、技术创新等方面开展了大力探索和有益实践，不仅培养了一支高效率、高素质的开发队伍，也建立了功能完善、具备国际水平的技术开发中心。从桑塔纳的技术引进，到桑塔纳2000型和帕萨特轿车的联合开发，从桑塔纳3000型起对自主开发的探索，到New Passat新帕萨特、Lavida家族的成功研发，上汽大众走出了一条从引进吸收、联合开发到自主研发的创新道路。目前，企业已初步具备内外造型，前期开发，车身开发，发动机、底盘和电器集成开发和认可的自主开发能力。
+> 作为国内历史最悠久的汽车合资企业之一，上汽大众率先在自主研发、技术创新等方面开展了大力探索和有益实践，不仅培养了一支高效率、高素质的开发队伍，也建立了功能完善、具备国际水平的技术开发中心。从桑塔纳的技术引进，到桑塔纳2000型和帕萨特轿车的联合开发，从桑塔纳3000型起对自主开发的探索，到New Passat新帕萨特、Lavida家族的成功研发，上汽大众走出了一条从引进吸收、联合开发到自主研发的创新道路。目前，企业已初步具备内外造型，前期开发，车身开发，发动机、底盘和电器集成开发和认可的自主开发能力。
 >
 > 多年以来，上汽大众以可靠的产品和贴心的服务赢得了广大消费者的支持与信赖。目前企业拥有大众、斯柯达两大汽车品牌，共十余个系列产品，覆盖A0级、A级、B级、C级、SUV、MPV等细分市场。其中，大众品牌车型有Polo、Santana桑塔纳、Lavida家族、Lamando凌渡、Passat帕萨特、PHIDEON辉昂、Tiguan途观、Touran途安，斯柯达品牌车型有Fabia晶锐，Rapid昕锐，RapidSpaceback昕动，Octavia明锐，Superb速派和Yeti。
 
@@ -120,25 +119,25 @@ http://www.svw-volkswagen.com/zh.html
 
 先上个全家福：
 
-![上汽大众全系车型](../../../assets/img/whole_series_vw_brand_models.jpg)
+![上汽大众全系车型](../../../.gitbook/assets/whole_series_vw_brand_models.jpg)
 
 再整理如下表：
 
-| 细分市场类型 | 车系=车型大类 | 中文名 | 子车系 |
-| ---- | ----------- | ----- | ----- |
-| 上汽大众子品牌 | |  |  |
-| 精品小车 | Polo | 波罗 | New Polo ![大众车系-Polo](../../../assets/img/vw_car_new_polo.png)<br/>Cross Polo ![大众车系-Cross Polo](../../../assets/img/vw_car_cross_polo.png)<br/>Polo GTI/A0级车 ![大众车系-Polo GTI](../../../assets/img/vw_car_polo_gti.png) |
-| | Santana | 桑塔纳 | 桑塔纳<br/>桑塔纳B2<br/>桑塔纳 2000<br/>桑塔纳 3000<br/>桑塔纳 Vista 志俊<br/>New Santana 桑塔纳·尚纳=全新桑塔纳 ![大众车系-New Santana](../../../assets/img/vw_car_new_santana.png)<br/>Cross Santana<br/>Gran Santana 桑塔纳 浩纳 ![大众车系-Gran Santana](../../../assets/img/vw_car_gran_santana.png) |
-| A级车 | Lavida | 朗逸 | Lavida 朗逸<br/>New Lavida 全新朗逸 ![大众车系-New Lavida](../../../assets/img/vw_car_new_lavida.png)<br/>Gran Lavida 全新朗行<br/>Cross Lavida 全新朗境 ![大众车系-Cross Lavida](../../../assets/img/vw_car_cross_lavida.png)<br/>Lavida Sport 朗逸运动版<br/>Lavida BlueMotion 朗逸蓝驱技术版 |
-| 轿跑车 高端A级车 | Lamando | 凌渡 | Lamando 凌渡 ![大众车系-Lamando](../../../assets/img/vw_car_lamando.png)<br/>Lamando GTS 凌渡GTS  |
-| B级车 | Passat | 帕萨特 | Passat帕萨特<br/>Passat Lingyu领驭<br/>Passat New Lingyu新领驭<br/>New Passat全新帕萨特 ![大众车系-New Passat](../../../assets/img/vw_car_new_passat.png) |
-| C级车 | Phideon | 辉昂 | |
-| SUV | Tiguan | 途观 | Tiguan 途观 ![大众车系-Tiguan](../../../assets/img/vw_car_tiguan.png)<br/>Tiguan Silk Road 途观丝绸之路版<br/>All New Tiguan L 全新途观L |
-| MPV／多功能乘用车 | Touran | 途安 | Touran 途安<br/>All New Touran L 全新途安L ![大众车系-Touran](../../../assets/img/vw_car_touran.png)|
-| | Sharan | 夏朗 | |
-| | | |
-| 进口大众子品牌 | | |
-| | | |
+| 细分市场类型     | 车系=车型大类 | 中文名 | 子车系                                                                                                                                                                                                                                                                                                     |
+| ---------- | ------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 上汽大众子品牌    |         |     |                                                                                                                                                                                                                                                                                                         |
+| 精品小车       | Polo    | 波罗  | <p>New Polo <img src="../../../.gitbook/assets/vw_car_new_polo.png" alt="大众车系-Polo"><br>Cross Polo <img src="../../../.gitbook/assets/vw_car_cross_polo.png" alt="大众车系-Cross Polo"><br>Polo GTI/A0级车 <img src="../../../.gitbook/assets/vw_car_polo_gti.png" alt="大众车系-Polo GTI"></p>                   |
+|            | Santana | 桑塔纳 | <p>桑塔纳<br>桑塔纳B2<br>桑塔纳 2000<br>桑塔纳 3000<br>桑塔纳 Vista 志俊<br>New Santana 桑塔纳·尚纳=全新桑塔纳 <img src="../../../.gitbook/assets/vw_car_new_santana.png" alt="大众车系-New Santana"><br>Cross Santana<br>Gran Santana 桑塔纳 浩纳 <img src="../../../.gitbook/assets/vw_car_gran_santana.png" alt="大众车系-Gran Santana"></p> |
+| A级车        | Lavida  | 朗逸  | <p>Lavida 朗逸<br>New Lavida 全新朗逸 <img src="../../../.gitbook/assets/vw_car_new_lavida.png" alt="大众车系-New Lavida"><br>Gran Lavida 全新朗行<br>Cross Lavida 全新朗境 <img src="../../../.gitbook/assets/vw_car_cross_lavida.png" alt="大众车系-Cross Lavida"><br>Lavida Sport 朗逸运动版<br>Lavida BlueMotion 朗逸蓝驱技术版</p>   |
+| 轿跑车 高端A级车  | Lamando | 凌渡  | <p>Lamando 凌渡 <img src="../../../.gitbook/assets/vw_car_lamando.png" alt="大众车系-Lamando"><br>Lamando GTS 凌渡GTS</p>                                                                                                                                                                                       |
+| B级车        | Passat  | 帕萨特 | <p>Passat帕萨特<br>Passat Lingyu领驭<br>Passat New Lingyu新领驭<br>New Passat全新帕萨特 <img src="../../../.gitbook/assets/vw_car_new_passat.png" alt="大众车系-New Passat"></p>                                                                                                                                         |
+| C级车        | Phideon | 辉昂  |                                                                                                                                                                                                                                                                                                         |
+| SUV        | Tiguan  | 途观  | <p>Tiguan 途观 <img src="../../../.gitbook/assets/vw_car_tiguan.png" alt="大众车系-Tiguan"><br>Tiguan Silk Road 途观丝绸之路版<br>All New Tiguan L 全新途观L</p>                                                                                                                                                         |
+| MPV／多功能乘用车 | Touran  | 途安  | <p>Touran 途安<br>All New Touran L 全新途安L <img src="../../../.gitbook/assets/vw_car_touran.png" alt="大众车系-Touran"></p>                                                                                                                                                                                     |
+|            | Sharan  | 夏朗  |                                                                                                                                                                                                                                                                                                         |
+|            |         |     |                                                                                                                                                                                                                                                                                                         |
+| 进口大众子品牌    |         |     |                                                                                                                                                                                                                                                                                                         |
+|            |         |     |                                                                                                                                                                                                                                                                                                         |
 
 ## 总部位置
 
@@ -167,7 +166,7 @@ http://www.svw-volkswagen.com/zh.html
 
 再说不同车厂的生产车系的概览：
 
-![上汽大众工厂分布和生产车系](../../../assets/img/vw_factory_and_series.jpg)
+![上汽大众工厂分布和生产车系](../../../.gitbook/assets/vw_factory_and_series.jpg)
 
 ## 涉及业务
 
@@ -200,10 +199,10 @@ http://www.svw-volkswagen.com/zh.html
 
 ### 部门缩写
 
-| 大众部门缩写 | 全称 |
-|----------- | ---- |
-| SVW SRT-1 | 客服中心运营管理 Customer Service Center <br/> 市场调研与信息 Market Research and Intelligence |
-| SVW SRR | 市场研究与分析 SRR <br/> 市场调研与信息 Market Research and Intelligence |
+| 大众部门缩写    | 全称                                                                                    |
+| --------- | ------------------------------------------------------------------------------------- |
+| SVW SRT-1 | <p>客服中心运营管理 Customer Service Center <br> 市场调研与信息 Market Research and Intelligence</p> |
+| SVW SRR   | <p>市场研究与分析 SRR <br> 市场调研与信息 Market Research and Intelligence</p>                      |
 
 ### 部门组织架构
 
@@ -215,4 +214,4 @@ http://www.svw-volkswagen.com/zh.html
 
 ### 大众的部门/机构的分布
 
-![大众的机构分布](../../../assets/img/vw_department_distribution.jpg)
+![大众的机构分布](../../../.gitbook/assets/vw_department_distribution.jpg)

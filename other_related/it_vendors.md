@@ -18,7 +18,7 @@
 
 举例来说，比如在DMS店面与DCS厂端系统集成销售库存同步流程图：
 
-![DMS和DCS系统集成库存流程](../assets/img/dms_dcs_integrated_stock_process.jpg)
+![DMS和DCS系统集成库存流程](../.gitbook/assets/dms_dcs_integrated_stock_process.jpg)
 
 而之前的客户包括18家车厂和3000多家4S经销商
 

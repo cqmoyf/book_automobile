@@ -1,4 +1,4 @@
-# 汽车销售领域知识总结
+# Table of contents
 
 * [前言](README.md)
 * [汽车销售全过程概览](whole_process_intro/README.md)
@@ -53,6 +53,6 @@
     * [二网](common_concept/logic/secondary_network.md)
     * [批售](common_concept/logic/wholesales.md)
     * [OTD](common_concept/logic/otd.md)
-  * [常见组织架构](common_concept/organization/README.md)
+  * [常见组织架构](common_concept/organization.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)
